@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao meu perfil  👋
 
+<div>
+ <img src="https://media.tenor.com/TkFZ0lgtuakAAAAj/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-%E0%B8%97%E0%B9%8D%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99.gif">
+</div>
+
+<br><br>
  <div>
    <a href="https://github.com/bianca-leal">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bianca-leal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
