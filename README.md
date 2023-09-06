@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mim
 
- 🟣  Sou uma mulher que fez uma emocionante transição de carreira para a área de tecnologia e desenvolvimento de software. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas, e meu estágio como Analista de Sistemas me permite aplicar conhecimentos práticos.
+ 🟣  Fiz uma emocionante transição de carreira para a área de tecnologia e desenvolvimento de software. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas, e meu estágio como Analista de Sistemas me permite aplicar conhecimentos práticos.
 
  🟣  Além disso, estou focada em aprimorar minhas habilidades em desenvolvimento fullstack, incluindo Java, JavaScript, Angular, banco de dados e outras tecnologias. 
 
