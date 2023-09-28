@@ -55,24 +55,30 @@
 ## Meus Principais Desafios de Projeto 
 
 <div align="center">
+   <a href="https://github.com/Bianca-Leal/Bianca-Leal.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bianca-Leal&repo=Bianca-Leal.github.io&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="roadmaps Repo Card">
+    </a> 
+  
   <a href="https://github.com/Bianca-Leal/dio-pokedex">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bianca-Leal&repo=dio-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="dio-pokedex Repo Card">
   </a>
-  <a href="https://github.com/Bianca-Leal/adalovelace-descodificadas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bianca-Leal&repo=adalovelace-descodificadas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="adalovelace-descodificadas Repo Card">
+  
+  <a href="https://github.com/Bianca-Leal/site-AdaLovelace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bianca-Leal&repo=site-AdaLovelace&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="adalovelace-descodificadas Repo Card">
   </a>
+  
   <a href="https://github.com/Bianca-Leal/projeto-mario">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bianca-Leal&repo=projeto-mario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="projeto-mario Repo Card">
   </a>
+  
   <a href="https://github.com/Bianca-Leal/dicionario">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bianca-Leal&repo=dicionario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="dicionario Repo Card">
   </a>
+ 
   <a href="https://github.com/elidianaandrade/dio-lab-open-source">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="dio-lab-open-source Repo Card">
   </a>
-  <a href="https://github.com/digitalinnovationone/roadmaps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="roadmaps Repo Card">
-  </a>
+  
 </div>
 
 
