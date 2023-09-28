@@ -54,8 +54,6 @@
 
 ## Meus Principais Desafios de Projeto 
 
-## Meus Principais Desafios de Projeto 
-
 <div align="center">
   <a href="https://github.com/Bianca-Leal/Bianca-Leal.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bianca-Leal&repo=Bianca-Leal.github.io&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="roadmaps Repo Card" >
