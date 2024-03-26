@@ -34,12 +34,14 @@
 
 <div align="center">
   <img alt="JavaScript" height="30" width="auto" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-  <img alt="Java" height="30" width="auto" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
+  <img alt="Java" height="30" width="auto" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=007396&labelColor=black">
 </div>
 
 ## Bibliotecas e Frameworks
 
 <div align="center">
+    <img alt="Spring Boot" height="30" width="auto" src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F&labelColor=black">
+
   <img alt="Angular" height="30" width="auto" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F">
 </div>
 
