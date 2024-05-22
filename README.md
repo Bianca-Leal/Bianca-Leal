@@ -1,4 +1,11 @@
-## Bem-vindo(a) ao meu perfil  🤓 
+# Bem-vindo ao meu perfil
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&pause=1000&color=FF69B4&size=36&width=435&lines=Ol%C3%A1%2C+sou+a+Bianca!" alt="Typing SVG">
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://media.tenor.com/TkFZ0lgtuakAAAAj/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-%E0%B8%97%E0%B9%8D%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99.gif" alt="Hello GIF">
