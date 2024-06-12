@@ -1,11 +1,7 @@
 # Bem-vindo ao meu perfil
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&pause=1000&color=FF69B4&size=36&width=435&lines=Ol%C3%A1%2C+sou+a+Bianca!" alt="Typing SVG">
-  </a>
-</p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=F73DF3&center=true&random=false&width=435&lines=%3C+Ol%C3%A1%2C+sou+a+Bianca!+%2F%3E;%3C+Desenvolvedora+FullStack+%2F%3E;%3C+Hi%2C+I'am+Bianca!+%2F%3E;%3C+FullStack+Developer+%2F%3E)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.tenor.com/TkFZ0lgtuakAAAAj/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-%E0%B8%97%E0%B9%8D%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99.gif" alt="Hello GIF">
